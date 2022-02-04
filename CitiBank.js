@@ -9,7 +9,7 @@ class CitiBank extends Bank{
     }
 }
 
-module.exports = Bank;
+module.exports = CitiBank;
 
 //Pay and refund are made as interface methods
 
